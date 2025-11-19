@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1093269450.svg)](https://doi.org/10.5281/zenodo.17646662)
+
 # uf
 Simple FORM program to calculate the first and second Symanzik polynomials
 
